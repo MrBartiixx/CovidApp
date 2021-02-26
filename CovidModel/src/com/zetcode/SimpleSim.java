@@ -342,10 +342,10 @@ class Human{
 
 
 
-    public static Image Simage = new ImageIcon("C:\\Users\\Bartosz Wawrzyniak\\Desktop\\human_white.png").getImage();
-    public static Image Eimage = new ImageIcon("C:\\Users\\Bartosz Wawrzyniak\\Desktop\\human_yellow.png").getImage();
-    public static Image Iimage = new ImageIcon("C:\\Users\\Bartosz Wawrzyniak\\Desktop\\human_red.png").getImage();
-    public static Image Rimage = new ImageIcon("C:\\Users\\Bartosz Wawrzyniak\\Desktop\\human_blue.png").getImage();
+    public static Image Simage = new ImageIcon("icons\\human_white.png").getImage();
+    public static Image Eimage = new ImageIcon("icons\\human_yellow.png").getImage();
+    public static Image Iimage = new ImageIcon("icons\\human_red.png").getImage();
+    public static Image Rimage = new ImageIcon("icons\\human_blue.png").getImage();
 
 
 
