@@ -17,6 +17,7 @@ public class SimpleSim extends JFrame {
     GamePanel gamePanel = new GamePanel();
     int N;
     int IonStart;
+    int zmienna;
 
     public SimpleSim() {
         initUI();
